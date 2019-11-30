@@ -1,0 +1,27 @@
+*{margin:0px; padding:0px;
+    font-family:arial black;}
+
+body{background-image:url(sabuj.jpg);
+      background-size:100%;
+	  width:100%;height:120vh;}
+.meainmenu{background-color:#06060682;padding:25px;border:1px solid #aeb6bbbd;}
+.leftmenu ul,li,a{display:inline;padding:15px; 
+                  margin-top:-30px;float:right;text-decoration:none;
+				  color:white; font-size:18px;transition:0.6s ease;}
+.leftmenu ul li a:hover{background-color:#aeb6bbbd; color:red;}
+
+
+.rightmenu span{color:white;border:2px solid black;border-radius:8px;
+                margin:10px;padding:10px;background:#423f53;}
+
+				  
+				  
+.text { width:100x;text-align:center;
+        padding-top:20px ;margin-top:200px; color:white;}
+	.crea{font-size:40px;color:#009fffbd; font-style: oblique;}
+.texttow{font-size:25px;}
+.botton{font-size:20px;padding:12px;padding-left:20px;
+         padding-right:20px; border:none; border-radius:8px;
+		 background:black;color:white; transition:0.6s esas;}
+.botton:hover{background-color:#aeb6bbbd; color:red;}
+marquee{font-size:35px; color:white;}
